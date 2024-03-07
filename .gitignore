@@ -1,0 +1,19 @@
+# python
+__pycache__
+*.py[cod]
+.venv
+.vscode
+
+# build
+/build
+/dist
+*.exe
+*.spec
+
+# source
+/assets
+*.mp4
+*.zip
+*.xlsx
+*.jpg
+*.avi
